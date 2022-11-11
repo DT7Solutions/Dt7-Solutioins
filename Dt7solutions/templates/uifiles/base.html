@@ -104,6 +104,17 @@ https://templatemo.com/tm-569-edu-meeting
     <script src="{% static 'assets/js/video.js'  %}"></script>
     <script src="{% static 'assets/js/slick-slider.js'  %}"></script>
     <script src="{% static 'assets/js/custom.js'  %}"></script>
+    <script src="https://unpkg.com/ityped@0.0.10"></script>
+    
+    <script>
+        window.ityped.init(document.querySelector('.ityped'),{
+            strings: ['Offshore Development','Corporate Training','Corporate Training','SAP','Testing','IT /ITES Staffing','Datawarehousing'
+            ,'Oracle','Microsoft Implementation & Support','Application Development'],
+            loop: true,
+            typeSpeed: 200,
+        })
+    </script>
+  
     <script>
         //according to loftblog tut
         $('.nav li:first').addClass('active');
