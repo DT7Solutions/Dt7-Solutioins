@@ -1,6 +1,4 @@
 # Dt7-Solutions
-
-# SumaFilmyArts
 #https://github.com/DT7Solutions/Dt7-Solutioins.git
 
 
